@@ -9,7 +9,7 @@
 4. выделение заголовка-#
 6. нумерование списка- 1.
 7. вложенные списки-выполняем отступы.
-
+7.git branch
 8.git branch "vetca_name"
 9.git branch -d branch to delet
 10.git checkout branch name
