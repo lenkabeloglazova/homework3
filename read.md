@@ -1,14 +1,12 @@
-## Создание git-репозитория. ##
-                      команды:
-                
-
-## Синтаксис  языка Markdown ##
-1. жирный текст- **
-2. курсивный текст-*
-3. зачеркнутый текст-`
-4. выделение заголовка-#
-6. нумерование списка- 1.
-7. вложенные списки-выполняем отступы.
+## Создание ветки в git.
+       Команды:
+1.git init
+2.git add .
+3.git commit
+4.git diff
+5.git log
+6.git checkout
+7.git branch
 7.git branch
 8.git branch "vetca_name"
 9.git branch -d branch to delet
