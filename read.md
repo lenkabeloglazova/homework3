@@ -12,12 +12,12 @@
 ## Создание ветки в git. ##
        Команды:
 
-9.git branch
-10.git branch "vetca_name"
-11.git branch -d branch to delet
-12.git checkout branch name
-13.git log-graph
-14.git merge branch name
+9.  git branch
+10. git branch "vetca_name"
+11. git branch -d branch to delet
+12. git checkout branch name
+13. git log-graph
+14. git merge branch name
                 
 
 ## Синтаксис  языка Markdown ##
